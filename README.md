@@ -1,8 +1,5 @@
-# Lab Task 06 — Abstract Data Types (ADT)
+## Lab Task 06 — Abstract Data Types (ADT)
 
-**Course:** Software Construction — 5th Semester Software Engineering  
-**Instructor:** Engr. Rizwan Shah  
-**Date:** 22 Sep 2026
 
 ## Objective
 
